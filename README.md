@@ -1,7 +1,4 @@
-## 👋 Hi, I'm Melvin Samuel Joshuva
-
-<!--
-# 👋 Hi, I'm Melvin Samuel Joshuva
+# 👋 Hi, I'm Melvin Joshuva
 
 I’m a Junior Data Analyst and Cloud Computing enthusiast based in Kitchener, Ontario 🇨🇦. I enjoy solving business problems with data, building dashboards, and exploring cloud platforms like AWS and GCP.
 
@@ -21,5 +18,3 @@ I’m a Junior Data Analyst and Cloud Computing enthusiast based in Kitchener, O
 - 📬 [Email](mailto:melvinsamueljoshuva@gmail.com)
 
 Thanks for visiting my profile! 😊
-
--->
